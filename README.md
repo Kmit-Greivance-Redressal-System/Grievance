@@ -1,8 +1,6 @@
 # Grievance
 
-# Grievance
 
-# Live Demo at: [here](https://gomega-pro.github.io/GOMEGA/)
 
 ### **Initial Local Setup**
 
