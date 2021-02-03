@@ -37,15 +37,9 @@ git config --list
 
 `git push origin <your branch name>`
 
-**Step 4:** Go to the URL generated the end of the push message
-
-(OR)
-
-` https://github.com/GOMEGA-PRO/GOMEGA/pull/new/<your branch name>`
-
 **~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~**
 
-### After the completion squash and merge process to update the local i.e in master branch with the current changes
+### After the completion of squash and merge process to update the local i.e in master branch with the current changes
 
 `git checkout master`
 
